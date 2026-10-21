@@ -7,4 +7,4 @@
 
 Цель игры - открыть все карточки.
 
-В игру можно поиграть - https://corvus278.github.io/Parts-game/
+В игру можно поиграть - https://mcar2107.github.io/Parts-game/
